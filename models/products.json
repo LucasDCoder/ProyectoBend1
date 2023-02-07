@@ -1,0 +1,13 @@
+[
+	{
+		"title": "Memoria RAM",
+		"description": "Memoria RAM 8gb",
+		"code": "3334",
+		"price": "123456",
+		"status": "true",
+		"stock": "4",
+		"category": "Memorias",
+		"thumbnails": "www.google.com",
+		"id": 2
+	}
+]
